@@ -1,0 +1,46 @@
+﻿{
+  "debug_text_id": "Дебаг",
+  "file_text_id": "Файл",
+  "view_text_id": "Вид",
+  "plugins_text_id": "Плагины",
+  "tabs_text_id": "Вкладки",
+  "properties_text_id": "Свойства",
+  "preferences_text_id": "Настройки",
+  "help_text_id": "Помощь",
+
+  "new_text_id": "Новая вкладка",
+  "open_text_id": "Открыть",
+  "save_text_id": "Сохранить",
+  "save_as_text_id": "Сохранить как...",
+  "close_tab_text_id": "Закрыть вкладку",
+  "rename_tab_text_id": "Переименовать вкладку",
+  "open_from_cloud_text_id": "Открыть из облака",
+  "save_in_text_id": "Сохранить в облаке",
+  "exit_text_id": "Выход",
+
+  "elements_text_id": "Элементы",
+
+  "formats_text_id": "Форматы",
+  "language_text_id": "Язык",
+  "skin_text_id": "Темы",
+  "about_text_id": "О программе",
+  "close_all_text_id": "Закрыть все",
+  "figure_text_id": "Фигура",
+
+  "empty_figure_text_id": "Пустая фигура",
+
+  "russian_text_id": "Русский",
+  "english_text_id": "Английский",
+
+  "light_text_id": "Светлая",
+  "dark_text_id": "Темная",
+
+  "types_text_id": "Тип фигуры",
+  "line_width_text_id": "Ширина линии",
+  "color_text_id": "Цвет",
+
+  "line_text_id": "Линия",
+  "rectangle_text_id": "Прямоугольник",
+  "ellipse_text_id": "Круг",
+  "rounded_rectangle_text_id": "Закругленный прямоугльник"
+}

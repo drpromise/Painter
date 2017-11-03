@@ -1,0 +1,45 @@
+﻿{
+  "file_text_id": "File",
+  "view_text_id": "View",
+  "plugins_text_id": "Plug-ins",
+  "tabs_text_id": "Tabs",
+  "properties_text_id": "Properties",
+  "preferences_text_id": "Preferences",
+  "help_text_id": "Help",
+
+  "new_text_id": "New tab",
+  "open_text_id": "Open",
+  "save_text_id": "Save",
+  "save_as_text_id": "Save as...",
+  "close_tab_text_id": "Close tab",
+  "rename_tab_text_id": "Rename tab",
+  "open_from_cloud_text_id": "Open from cloud",
+  "save_in_text_id": "Save in cloud",
+  "exit_text_id": "Exit",
+
+  "elements_text_id": "Elements",
+
+  "formats_text_id": "Formats",
+  "language_text_id": "Language",
+  "skin_text_id": "Skin",
+  "about_text_id": "About",
+  "close_all_text_id": "Close All",
+  "figure_text_id": "Figure",
+
+  "empty_figure_text_id": "Empty figure",
+
+  "russian_text_id": "Russian",
+  "english_text_id": "English",
+
+  "light_text_id": "Light",
+  "dark_text_id": "Dark",
+
+  "types_text_id": "Types",
+  "line_width_text_id": "Line width",
+  "color_text_id": "Color",
+
+  "line_text_id": "Line",
+  "rectangle_text_id": "Rectangle",
+  "ellipse_text_id": "Ellipse",
+  "rounded_rectangle_text_id": "Round rectangle"
+}
